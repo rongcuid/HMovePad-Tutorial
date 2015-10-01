@@ -2,6 +2,8 @@
 
 After 3 months of digging through numerous websites and trying out some small projects, I finally get to implement a minimalistic game (or is it?), in a very, very different way. This example exists merely to demonstrate one possible structure of a game written in Haskell, and should easily be extended to handle more complex logic and gameplay.
 
+Full code and tutorial available on https://github.com/carldong/HMovePad-Tutorial
+
 # Abstract
 
 This mini game has only one rectangle, which the player can move left and right by pressing Left and Right key, and that is the whole "game".
